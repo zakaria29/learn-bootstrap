@@ -4,3 +4,8 @@
     background-size: cover;
     background-position: center;
 }
+
+.btn-gradient{
+    background: linear-gradient(to right, rgb(235, 117, 7), rgb(230, 31, 31));
+    color: white;
+}
